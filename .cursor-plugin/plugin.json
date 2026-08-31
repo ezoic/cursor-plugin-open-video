@@ -1,0 +1,13 @@
+{
+  "name": "open-video",
+  "version": "1.0.0",
+  "description": "Open Video — publisher platform MCP (videos, channels, playlists, monetization).",
+  "author": {
+    "name": "open.video"
+  },
+  "homepage": "https://open.video",
+  "repository": "https://github.com/ezoic/cursor-plugin-open-video",
+  "license": "MIT",
+  "keywords": ["open-video", "video", "mcp", "publishing"],
+  "logo": "assets/plugin-logo.png"
+}
